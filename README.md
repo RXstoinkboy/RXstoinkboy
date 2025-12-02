@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eryk Ludwin
 
-🚀 **Frontend & Fullstack Developer**  
+🚀 **Fullstack Developer**  
 🎯 Passionate about building fast, scalable, and accessible web and mobile apps.  
 💡 Always exploring modern tech, clean architecture, and AI-assisted development.
 
